@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.zuellig.mobile"
+        id        = "com.amablended.mobile"
         versionCode = "2018"
         version   = "3.3.0">
-    <name>Moodle Mobile</name>
+    <name>AMA Blended Learning</name>
 
     <description>
-        A mobile version of Zuellig Pharma based on the latest moodle mobile.
+        A mobile portal of AMA Blended Learning LMS based on Moodle Mobile Application. This allows you to access your courses and download it to read it offline. it also alloes
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
